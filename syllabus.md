@@ -45,7 +45,7 @@ biomedical data.
 ### Course grade
 
 Course grade will be based on class participation (40%),
-written article summaries (30%), and 3 homework assignments (30%).
+written article summaries (30%), and 2 homework assignments (30%).
 
 The article summaries will be scored 0 (missing), 1 (weak), 2 (adequate),
 and 3 (strong).
