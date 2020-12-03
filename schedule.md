@@ -14,7 +14,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 24 Sep |     | Lipids and heart disease: [Lipid Research Clinics Program (1984)](https://doi.org/10.1001/jama.1984.03340270029025), [part 2](https://doi.org/10.1001/jama.1984.03340270043026) |
 | 26 Sep  |    | **No class meeting** |
 | 1 Oct   |    | **No class meeting** |
-| 3 Oct   |    | Skin cancer: [Wang et al. (2019)](https://doi.org/10.1001/jamadermatol.2019.2335) \[_[homework 1](homework1.html) due_\] |
+| 3 Oct   |    | Skin cancer: [Wang et al. (2019)](https://doi.org/10.1001/jamadermatol.2019.2335)
 | 8 Oct   |   | Hormone replacement therapy: [Hern&aacute;n et al. (2008)](https://doi.org/10.1097/EDE.0b013e3181875e61) |
 | 10 Oct  |   | Hormone replacement therapy discussion and response:
 |         |   | [Hoover (2008)](https://doi.org/10.1097/EDE.0b013e318188e21d); [Stampfer (2008)](https://doi.org/10.1097/EDE.0b013e318188442e); [Prentice (2008)](https://doi.org/10.1097/EDE.0b013e318188e83b); [Hern&aacute;n and Robins (2008)](https://doi.org/10.1097/EDE.0b013e318188e85f); [Willett et al. (2008)](https://doi.org/10.1097/EDE.0b013e318188e84e) |
@@ -24,7 +24,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 29 Oct    |  | OHDSI: [Madigan et al. (2013)](https://doi.org/10.1093/aje/kwt010) |
 | 31 Oct    |  | OHDSI: [Ryan et al. (2013)](https://doi.org/10.1038/psp.2013.52) |
 | 5 Nov     |  | Boosting and bagging: [Buhlmann & Hothorn (2007)](https://doi.org/10.1214/07-STS242) |
-| 7 Nov     |  | Boosting and bagging: [Buhlmann (2012)](https://doi.org/10.1007/978-3-642-21551-3_33) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](ftp://ess.r-project.org/pub/Research-Reports/Other-Manuscripts/buhlmann/handbook-cs-rev2010.pdf) \[_[homework 2](homework2.html) due_\] |
+| 7 Nov     |  | Boosting and bagging: [Buhlmann (2012)](https://doi.org/10.1007/978-3-642-21551-3_33) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](ftp://ess.r-project.org/pub/Research-Reports/Other-Manuscripts/buhlmann/handbook-cs-rev2010.pdf)
 | 12 Nov    |  | Data vis: [Lex et al. (2014)](https://doi.org/10.1109/TVCG.2014.2346248)
 | 14 Nov    |  | Data vis: [Sopan et al. (2013)](https://doi.org/10.1080/10447318.2012.687676) [![pdf logo](https://kbroman.org/pages/icons16/pdf-icon.png)](http://www.cs.umd.edu/~ben/Sopan2013Exploring.pdf)
 | 19 Nov    |  | Deep learning: [LeCun et al. (2015)](https://doi.org/10.1038/nature14539), [Angermueller et al. (2016)](https://doi.org/10.15252/msb.20156651)
